@@ -161,4 +161,5 @@ p {
 }
 .attribution a {
     text-decoration: none;
+    color: var(--medium-grey);
 }
