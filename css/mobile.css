@@ -84,6 +84,10 @@ p {
     height: 42px;
     cursor: pointer;
 }
+.button.active {
+    background-color: var(--orange);
+    color: var(--pure-white);
+}
 .button:hover {
     background-color: var(--orange);
     color: var(--pure-white);
