@@ -107,10 +107,6 @@ p {
     background-color: var(--pure-white);
     color: var(--orange);
 }
-.primary-button:active {
-    background-color: var(--orange);
-    color: var(--pure-white);
-}
 /* Rating state end */
 
 
